@@ -366,12 +366,12 @@ section {
     border-radius: 5rem;
   }
   .link-sup {
-    padding: 4rem 8rem;
+    padding: 4rem 7rem;
     border-top-right-radius: 5rem;
     border-bottom-right-radius: 5rem;
   }
   .link-apple {
-    padding: 4rem 8rem;
+    padding: 4rem 7rem;
     border-top-left-radius: 5rem;
     border-bottom-left-radius: 5rem;
   }
@@ -386,6 +386,9 @@ section {
 .hero-wrap h1 {
   font-family: "Compacta";
   font-size: 23rem;
+}
+.live-site {
+  padding-block: 2rem;
 }
 }
 @media (max-width: 1440px) {
