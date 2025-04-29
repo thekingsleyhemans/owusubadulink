@@ -340,9 +340,9 @@ section {
   transition: width 0.3s ease-in-out; /* Smooth transition */
 }
 @media (max-width: 1920px) {
-  .hero-wrap h1{
-    font-size: 24.5rem;
-  }
+  .hero-wrap p {
+    font-size: 5rem;
+}
   .hero-wrap{
     padding-block: 3rem;
   }
@@ -361,6 +361,32 @@ section {
     border-top-left-radius: 6rem;
     border-bottom-left-radius:6rem;
   }
+  .link-you {
+    padding: 4rem 7rem;
+    border-radius: 5rem;
+  }
+  .link-sup {
+    padding: 4rem 8rem;
+    border-top-right-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+  }
+  .link-apple {
+    padding: 4rem 8rem;
+    border-top-left-radius: 5rem;
+    border-bottom-left-radius: 5rem;
+  }
+  .logo {
+    padding: 2rem;
+    width: 14rem;
+    height: 14rem;
+  }
+  .live-site p {
+    font-size: 2rem;
+}
+.hero-wrap h1 {
+  font-family: "Compacta";
+  font-size: 23rem;
+}
 }
 @media (max-width: 1440px) {
   .hero-wrap h1 {
