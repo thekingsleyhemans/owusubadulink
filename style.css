@@ -48,8 +48,9 @@ section {
 }
 .hero-text {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   overflow: hidden;
+  gap: 1rem;
 }
 .h-p-wrap {
   width: 100%;
