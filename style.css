@@ -362,16 +362,16 @@ section {
     border-bottom-left-radius:6rem;
   }
   .link-you {
-    padding: 4rem 7rem;
+    padding: 3rem 7rem;
     border-radius: 5rem;
   }
   .link-sup {
-    padding: 4rem 7rem;
+    padding: 3rem 7rem;
     border-top-right-radius: 5rem;
     border-bottom-right-radius: 5rem;
   }
   .link-apple {
-    padding: 4rem 7rem;
+    padding: 3rem 7rem;
     border-top-left-radius: 5rem;
     border-bottom-left-radius: 5rem;
   }
@@ -390,6 +390,8 @@ section {
 .live-site {
   padding-block: 2rem;
 }
+.bottom-wrap {
+  gap: 2rem;
 }
 @media (max-width: 1440px) {
   .hero-wrap h1 {
