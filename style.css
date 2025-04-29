@@ -135,6 +135,7 @@ section {
   padding-block: 1rem;
   background-color: var(--yellow);
   overflow: hidden;
+  z-index: 9999999;
 }
 .live-marquee-content p{
   color: var(--black);
@@ -335,6 +336,15 @@ section {
 .link-item {
   width: fit-content; /* Default width */
   transition: width 0.3s ease-in-out; /* Smooth transition */
+}
+@media (max-width: 1700px) {
+  .hero-wrap h1{
+    font-size: 20rem;
+  }
+  .bottom-top a,
+  .bottom-bot a {
+    font-size: 5rem;
+  }
 }
 @media (max-width: 1239px) {
   .hero-wrap h1 {
