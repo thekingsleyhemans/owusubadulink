@@ -332,6 +332,7 @@ section {
 }
 .apple {
   border-radius: 4rem;
+
 }
 
 .link-item {
@@ -812,7 +813,7 @@ section {
     border-bottom-right-radius: 0px;
   }
   .link-text{
-    font-size: 4.5rem;
+    font-size: 4rem;
   }
   .instagram {
     border-top-left-radius: 0px;
