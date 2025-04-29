@@ -360,7 +360,7 @@ section {
     border-bottom-left-radius:6rem;
   }
 }
-@media (max-width: 1239px) {
+@media (max-width: 1440px) {
   .hero-wrap h1 {
     font-size: 16rem; /* Adjust font size */
   }
