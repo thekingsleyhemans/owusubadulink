@@ -339,7 +339,7 @@ section {
 }
 @media (max-width: 1920px) {
   .hero-wrap h1{
-    font-size: 22.5rem;
+    font-size: 24.5rem;
   }
   .hero-wrap{
     padding-block: 3rem;
@@ -362,7 +362,7 @@ section {
 }
 @media (max-width: 1440px) {
   .hero-wrap h1 {
-    font-size: 19rem; /* Adjust font size */
+    font-size: 17rem; /* Adjust font size */
   }
   .bottom-top a,
   .bottom-bot a {
