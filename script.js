@@ -8,8 +8,8 @@ linkItems.forEach((item) => {
     const linkText = item.querySelector('.link-text');
 
     // Expand the width of the current link-item
-    //item.style.transition = 'width 0.3s ease-in-ou'; // Smooth transition
-    //item.style.width = '150%'; // Adjust the width as needed
+    item.style.transition = 'width 0.3s ease-in-ou'; // Smooth transition
+    item.style.width = '150%'; // Adjust the width as needed
 
     // Remove the 'hidden' class from the marquee content
     if (marqueeContent) {
