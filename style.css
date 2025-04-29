@@ -353,45 +353,7 @@ section {
   .apple, .link-you{
     border-radius: 6rem;
   }
-  .link-sup{
-    border-top-right-radius: 6rem;
-    border-bottom-right-radius:6rem;
-  }
-  .link-apple{
-    border-top-left-radius: 6rem;
-    border-bottom-left-radius:6rem;
-  }
-  .link-you {
-    padding: 3rem 7rem;
-    border-radius: 5rem;
-  }
-  .link-sup {
-    padding: 3rem 7rem;
-    border-top-right-radius: 5rem;
-    border-bottom-right-radius: 5rem;
-  }
-  .link-apple {
-    padding: 3rem 7rem;
-    border-top-left-radius: 5rem;
-    border-bottom-left-radius: 5rem;
-  }
-  .logo {
-    padding: 2rem;
-    width: 11rem;
-    height: 11rem;
-  }
-  .live-site p {
-    font-size: 2rem;
-}
-.hero-wrap h1 {
-  font-family: "Compacta";
-  font-size: 23rem;
-}
-.live-site {
-  padding-block: 2rem;
-}
-.bottom-wrap {
-  gap: 2rem;
+  
 }
 @media (max-width: 1440px) {
   .hero-wrap h1 {
