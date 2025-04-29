@@ -340,9 +340,7 @@ section {
   transition: width 0.3s ease-in-out; /* Smooth transition */
 }
 @media (max-width: 1920px) {
-  .hero-wrap p {
-    font-size: 5rem;
-}
+ 
   .hero-wrap{
     padding-block: 3rem;
   }
