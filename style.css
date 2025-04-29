@@ -812,9 +812,9 @@ section {
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
   }
-  .link-text{
-    font-size: 4rem;
-  }
+  .link-text {
+    font-size: 3.5rem;
+}
   .instagram {
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
@@ -873,7 +873,7 @@ section {
     align-items: center;
   }
   .marquee-content h2{
-    font-size: 5rem;
+    font-size: 4rem;
   }
 }
 @media (max-width: 540px) {
