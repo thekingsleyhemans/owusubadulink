@@ -339,11 +339,25 @@ section {
 }
 @media (max-width: 1700px) {
   .hero-wrap h1{
-    font-size: 20rem;
+    font-size: 22.5rem;
+  }
+  .hero-wrap{
+    padding-block: 3rem;
   }
   .bottom-top a,
   .bottom-bot a {
-    font-size: 5rem;
+    font-size: 4rem;
+  }
+  .apple, .link-you{
+    border-radius: 6rem;
+  }
+  .link-sup{
+    border-top-right-radius: 6rem;
+    border-bottom-right-radius:6rem;
+  }
+  .link-apple{
+    border-top-left-radius: 6rem;
+    border-bottom-left-radius:6rem;
   }
 }
 @media (max-width: 1239px) {
