@@ -180,7 +180,14 @@ section {
   display: flex;
   flex-direction: column;
 }
-
+.body{
+  overflow-y: scroll;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.body::-webkit-scrollbar{
+  display: none;
+}
 .hero-wrap p {
   font-family: "Compacta";
   font-size: 2rem;
