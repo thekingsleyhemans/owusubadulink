@@ -359,6 +359,12 @@ section {
 
   
 }
+@media (max-width: 1655px) {
+  .bottom-top a,
+  .bottom-bot a {
+    font-size: 4rem;
+  } 
+}
 @media (max-width: 1440px) {
   .hero-wrap h1 {
     font-size: 17rem; /* Adjust font size */
