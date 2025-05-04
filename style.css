@@ -164,7 +164,7 @@ section {
     transform: translateX(0%);
   }
   100% {
-    transform: translateX(calc(-100% - 1rem));
+    transform: translateX(-50%);
   }
 }
 
@@ -356,8 +356,15 @@ section {
   .apple, .link-you{
     border-radius: 6rem;
   }
-
-  
+  .link-sup {
+    border-top-right-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+  }
+  .link-apple {
+    border-top-left-radius: 5rem;
+    border-bottom-left-radius: 5rem;
+ 
+  }
 }
 @media (max-width: 1655px) {
   .bottom-top a,
