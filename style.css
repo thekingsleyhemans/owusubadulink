@@ -180,12 +180,12 @@ section {
   display: flex;
   flex-direction: column;
 }
-.body{
+body{
   overflow-y: scroll;
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
-.body::-webkit-scrollbar{
+body::-webkit-scrollbar{
   display: none;
 }
 .hero-wrap p {
