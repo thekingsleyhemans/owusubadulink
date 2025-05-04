@@ -346,11 +346,17 @@ section {
   }
   .bottom-top a,
   .bottom-bot a {
-    font-size: 4rem;
+    font-size: 5rem;
+  } 
+  .logo {
+    width: 9rem;
+    height: 9rem;
   }
+
   .apple, .link-you{
     border-radius: 6rem;
   }
+
   
 }
 @media (max-width: 1440px) {

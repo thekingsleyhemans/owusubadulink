@@ -25,9 +25,7 @@ linkItems.forEach((item) => {
     const marqueeContent = item.querySelector('.marquee');
     const linkText = item.querySelector('.link-text');
 
-    // Reset the width of the current link-item
-    item.style.transition = 'width 0.3s ease-in-out'; // Smooth transition
-    item.style.width = ''; // Reset to original width
+   
 
     // Add the 'hidden' class back to the marquee content
     if (marqueeContent) {
