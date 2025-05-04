@@ -377,7 +377,12 @@ section {
     padding-block: 4rem;
   }
 }
-
+@media (max-width: 1300px){
+  .bottom-top a,
+  .bottom-bot a {
+    font-size: 3rem;
+  }
+}
 @media (max-width: 1180px) {
   .hero-wrap h1 {
     font-size: 14rem; /* Adjust font size */
